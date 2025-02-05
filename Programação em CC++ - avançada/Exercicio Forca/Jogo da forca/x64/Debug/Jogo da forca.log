@@ -1,0 +1,3 @@
+﻿  Jogo da forca.cpp
+C:\Users\leand\EFA57 Cinel - Programador\Programação em CC++ - avançada\Exercicio Forca\Jogo da forca\Jogo da forca.cpp(146,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Jogo da forca.vcxproj -> C:\Users\leand\EFA57 Cinel - Programador\Programação em CC++ - avançada\Exercicio Forca\x64\Debug\Jogo da forca.exe

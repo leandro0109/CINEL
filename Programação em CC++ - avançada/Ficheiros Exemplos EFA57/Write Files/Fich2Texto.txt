@@ -1,0 +1,2 @@
+Este é um texto exemplo
+	Para explorar a utilização de ficheiros em C++
